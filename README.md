@@ -24,13 +24,15 @@
 ![](https://github-contributor-stats.vercel.app/api?username=nikhilrai-tech&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![QUOTES](https://quotier.vercel.app/quote)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nikhilrai-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nikhilrai-tech&label=Profile%20Views&color=1&pretty=false" />
+</a>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nikhilrai) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
