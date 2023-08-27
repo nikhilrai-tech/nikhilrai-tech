@@ -29,7 +29,7 @@
 ---
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nikhilrai-tech&label=Profile%20Views&color=1&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=nikhilrai-tech&label=Profile%20Views&pretty=false" />
 </a>
 
 ## 💰 You can support me by Donating
