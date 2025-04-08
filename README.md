@@ -1,3 +1,17 @@
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding animation"/>
+</div>
+
+<h1 align="center">Hi 👋, I'm Nikhil Rai</h1>
+
+<div align="center">
+  
+  [![](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
+  [![](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nikhilrai662@gmail.com)
+  ![](https://komarev.com/ghpvc/?username=nikhilrai-tech-ai&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
+### 💫 About Me
 # 💫Hello, fellow Pythonistas! 🐍<br><br>Hi 👋, I'm Alex (Nikhil Rai), a passionate Python developer from India.<br><br>🔭 I’m currently working at Cyber3ra, where I specialize in Python development. I enjoy building scalable applications.<br><br>📷 When I'm not coding, I love pursuing my photography hobby, capturing moments through my camera lens.<br><br>⚡ Fun fact: I often merge my love for photography with my programming skills, exploring creative ways to blend both passions.<br><br>📫 You can reach out to me at nikhilrai662@gmail.com. Let's discuss Python, photography, or anything tech-related!<br><br>
 
 
