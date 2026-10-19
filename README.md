@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=nikhilrai-tech-ai&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
-### 💫 About Me
+## 💫 About Me
 
 # 💫Hello, fellow Pythonistas! 🐍<br><br>Hi 👋, I'm Alex (Nikhil Rai), a passionate Python developer from India.<br><br>🔭 I’m currently working at Cyber3ra, where I specialize in Python development. I enjoy building scalable applications.<br><br>📷 When I'm not coding, I love pursuing my photography hobby, capturing moments through my camera lens.<br><br>⚡ Fun fact: I often merge my love for photography with my programming skills, exploring creative ways to blend both passions.<br><br>📫 You can reach out to me at nikhilrai662@gmail.com. Let's discuss Python, photography, or anything tech-related!<br><br>
 
