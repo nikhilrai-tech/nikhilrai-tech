@@ -1,8 +1,4 @@
-<a href="https://nikhil-rai-portfolio-xi.vercel.app">
-  <img src="https://raw.githubusercontent.com/nikhilrai-tech/portfolio/main/docs/media/morph.gif" alt="Particles morphing between a globe, a portrait, server racks and a shield on Nikhil Rai's portfolio" width="100%"/>
-</a>
-
-<h1 align="center">Hi, I'm Nikhil Rai 👋</h1>
+<h1 align="center">Hi, I'm Nikhil Rai</h1>
 
 <p align="center">
   <a href="https://nikhil-rai-portfolio-xi.vercel.app">
@@ -23,39 +19,22 @@
 
 ---
 
-### 🛰️ Right now
+### Right now
 
-- 🏢 Running IT, cloud and infrastructure at **[SimDaaS Autonomy](https://www.simdaas.com/)** (IIT Kanpur): security policy, cloud accounts and cost, licensing, and the server-side APIs our products depend on.
-- 🛡️ Building small, sharp open-source tools for **AI-agent safety** and **cloud hygiene**.
-- 🎨 Just open-sourced **[my portfolio](https://github.com/nikhilrai-tech/portfolio)**: fork it and make it yours.
-- 📷 Off the terminal, I'm behind a camera.
+- Running IT, cloud and infrastructure at **[SimDaaS Autonomy](https://www.simdaas.com/)** (IIT Kanpur): security policy, cloud accounts and cost, licensing, and the server-side APIs our products depend on.
+- Building small, sharp open-source tools for **AI-agent safety** and **cloud hygiene**.
+- Just open-sourced **[my portfolio](https://github.com/nikhilrai-tech/portfolio)**: fork it and make it yours.
+- Off the terminal, I'm behind a camera.
 
-### ✨ Featured: this portfolio, open source
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://nikhil-rai-portfolio-xi.vercel.app"><img src="https://raw.githubusercontent.com/nikhilrai-tech/portfolio/main/docs/media/hero.jpg" alt="Portfolio hero with the particle globe"/></a>
-    </td>
-    <td width="50%">
-      <a href="https://nikhil-rai-portfolio-xi.vercel.app"><img src="https://raw.githubusercontent.com/nikhilrai-tech/portfolio/main/docs/media/journey.jpg" alt="The Journey scroll film"/></a>
-    </td>
-  </tr>
-</table>
-
-**[nikhilrai-tech/portfolio](https://github.com/nikhilrai-tech/portfolio)**: Next.js 16, a three.js particle field that morphs per section, a GSAP scroll film, Netflix-style profiles, a free AI chat with fallbacks, generated music, PWA, and English/Hindi. The README explains how each piece works, so you can learn from it or ship your own in an afternoon.
-
-[**▶ Live site**](https://nikhil-rai-portfolio-xi.vercel.app) · [**Source**](https://github.com/nikhilrai-tech/portfolio) · [**Make it yours**](https://github.com/nikhilrai-tech/portfolio#make-it-yours-in-10-minutes) · ⭐ a star helps others find it
-
-### 🧰 Open source
+### Open source
 
 | Project | What it does | |
 | --- | --- | --- |
-| 🦺 **[seatbelt for AI agents](https://github.com/nikhilrai-tech/seatbelt-for-AI-agents)** | Reads the shell commands an AI coding agent is about to run and blocks or asks before the dangerous ones: secrets, prod deletes, prompt injection. Zero dependencies. | [PyPI](https://pypi.org/project/seatbelt-guard/) |
-| 🔎 **[cloud-ownerlens](https://github.com/nikhilrai-tech/cloud-ownerlens)** | Finds unused cloud resources nobody owns, infers the owner, scores the waste and asks before anyone touches anything. Read-only. | AWS |
-| 🛡️ **[ScamSaathi](https://github.com/nikhilrai-tech/ScamSaathi)** | Offline, multilingual scam shield for farmers, students and families, with a trusted-person alert loop. | [Try it](https://nikhilrai-tech.github.io/ScamSaathi/) |
+| **[seatbelt for AI agents](https://github.com/nikhilrai-tech/seatbelt-for-AI-agents)** | Reads the shell commands an AI coding agent is about to run and blocks or asks before the dangerous ones: secrets, prod deletes, prompt injection. Zero dependencies. | [PyPI](https://pypi.org/project/seatbelt-guard/) |
+| **[cloud-ownerlens](https://github.com/nikhilrai-tech/cloud-ownerlens)** | Finds unused cloud resources nobody owns, infers the owner, scores the waste and asks before anyone touches anything. Read-only. | AWS |
+| **[ScamSaathi](https://github.com/nikhilrai-tech/ScamSaathi)** | Offline, multilingual scam shield for farmers, students and families, with a trusted-person alert loop. | [Try it](https://nikhilrai-tech.github.io/ScamSaathi/) |
 
-### 🚀 Products I've built and run
+### Products I've built and run
 
 | Product | What it is | Stack |
 | --- | --- | --- |
@@ -66,7 +45,7 @@
 | [**Aethrone Aerospace**](https://www.aethroneaerospace.com/) | Web app for an aerospace and defense startup at SIIC-IIT Kanpur | Django · React · MySQL · DigitalOcean |
 | **Network Operations Dashboard** | Real-time network ops data for Airtel's NOC | Django · PostgreSQL · REST API · Docker |
 
-### 🧭 Journey
+### Journey
 
 ```text
 2021 ── Bharti Airtel ──────── NOC Developer                         Gurugram
@@ -78,7 +57,7 @@
 
 Telecom → cybersecurity → AI and cloud → autonomy. [Watch it as a scroll film ▶](https://nikhil-rai-portfolio-xi.vercel.app/en#journey)
 
-### 📝 Latest notes
+### Latest notes
 
 <!-- NOTES:START -->
 - [A seatbelt for AI coding agents](https://nikhil-rai-portfolio-xi.vercel.app/en/notes/seatbelt-for-ai-agents)
@@ -88,7 +67,7 @@ Telecom → cybersecurity → AI and cloud → autonomy. [Watch it as a scroll f
 
 <sub>Updated automatically from the portfolio's [RSS feed](https://nikhil-rai-portfolio-xi.vercel.app/feed.xml).</sub>
 
-### 🛠️ Tech stack
+### Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,django,react,vue,nextjs,threejs,flutter,postgres,mysql,mongodb,redis,kafka,rabbitmq,aws,azure,docker,kubernetes,terraform,jenkins,githubactions,nginx,linux,grafana,prometheus,sentry&perline=9" alt="Python, JavaScript, TypeScript, Django, React, Vue, Next.js, three.js, Flutter, PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ, AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Nginx, Linux, Grafana, Prometheus, Sentry"/>
@@ -96,7 +75,7 @@ Telecom → cybersecurity → AI and cloud → autonomy. [Watch it as a scroll f
 
 <p align="center"><sub>Also: Django REST Framework · Wagtail · Celery · DigitalOcean · SonarQube · BetterStack</sub></p>
 
-### 📊 GitHub
+### GitHub
 
 <p align="center">
   <picture>
@@ -116,7 +95,7 @@ Telecom → cybersecurity → AI and cloud → autonomy. [Watch it as a scroll f
   </picture>
 </p>
 
-### 📬 Let's talk
+### Let's talk
 
 Infrastructure, DevOps, Python or photography: write to **[nikhilrai662@gmail.com](mailto:nikhilrai662@gmail.com)**, connect on [LinkedIn](https://www.linkedin.com/in/nikhil-rai-551219183/), or [ask the AI on my portfolio](https://nikhil-rai-portfolio-xi.vercel.app) anything about my work.
 
