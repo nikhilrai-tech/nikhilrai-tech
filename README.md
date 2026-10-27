@@ -1,5 +1,5 @@
 <a href="https://nikhil-rai-portfolio-xi.vercel.app">
-  <img src="https://raw.githubusercontent.com/nikhilrai-tech/portfolio/main/docs/media/morph.gif" alt="Particles morphing between a globe, a portrait, server racks and a shield on Nikhil Rai's portfolio" width="100%"/>
+  <img src="assets/banner.gif" alt="Particles morphing between a globe, a portrait, server racks and a shield on Nikhil Rai's portfolio" width="100%"/>
 </a>
 
 <h1 align="center">Hi, I'm Nikhil Rai 👋</h1>
