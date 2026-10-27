@@ -1,53 +1,103 @@
-<div align="center">
-<img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding animation"/>
-</div>
 
-<h1 align="center">Hi , I'm Nikhil Rai</h1>
+<h1 align="center">Hi, I'm Nikhil Rai </h1>
 
-<div align="center">
+<p align="center">
+  <a href="https://nikhil-rai-portfolio-xi.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=EBA73F&center=true&vCenter=true&width=620&lines=Head+of+IT+%40+SimDaaS+Autonomy%2C+IIT+Kanpur;DevOps+%C2%B7+Cloud+%C2%B7+Python+%C2%B7+Microservices;I+like+boring%2C+reliable+infrastructure;Monitoring+that+speaks+up+before+users+do" alt="Head of IT at SimDaaS Autonomy · DevOps, Cloud, Python, Microservices"/>
+  </a>
+</p>
 
-[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
-[![](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nikhilrai662@gmail.com)
-![](https://komarev.com/ghpvc/?username=nikhilrai-tech-ai&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <a href="https://nikhil-rai-portfolio-xi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-EBA73F?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/nikhil-rai-551219183/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
+  <a href="mailto:nikhilrai662@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/officialraisahabh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-</div>
-
-# Hello, fellow Pythonistas! <br><br>Hi , I'm Alex (Nikhil Rai), a passionate Python developer from India.<br><br>🔭 I’m currently working at Cyber3ra, where I specialize in Python development. I enjoy building scalable applications.<br><br>📷 When I'm not coding, I love pursuing my photography hobby, capturing moments through my camera lens.<br><br>⚡ Fun fact: I often merge my love for photography with my programming skills, exploring creative ways to blend both passions.<br><br> You can reach out to me at nikhilrai662@gmail.com. Let's discuss Python, photography, or anything tech-related!<br><br>
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nikhilrai662#7924) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nikhil.rai.5011@facebook.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/officialraisahabh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-rai-551219183) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alexrai95138981) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikhilrai-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikhilrai-tech&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrai-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nikhilrai-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=alexrai95138981)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nikhilrai-tech&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-![QUOTES](https://quotier.vercel.app/quote)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilrai-tech&label=Profile%20views&color=EBA73F&style=flat-square" alt="Profile views"/>
+</p>
 
 ---
 
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=nikhilrai-tech&label=Profile%20Views&pretty=false" />
-</a>
+###  Right now
 
-## 💰 You can support me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-beer&logoColor=black)](https://www.buymeacoffee.com/nrai91088o)
+-  Running IT, cloud and infrastructure at **[SimDaaS Autonomy](https://www.simdaas.com/)** (IIT Kanpur): security policy, cloud accounts and cost, licensing, and the server-side APIs our products depend on.
+-  Building small, sharp open-source tools for **AI-agent safety** and **cloud hygiene**.
+-  Just open-sourced **[my portfolio](https://github.com/nikhilrai-tech/portfolio)**: fork it and make it yours.
+-  Off the terminal, I'm behind a camera.
 
+###  Open source
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | What it does | |
+| --- | --- | --- |
+|  **[seatbelt for AI agents](https://github.com/nikhilrai-tech/seatbelt-for-AI-agents)** | Reads the shell commands an AI coding agent is about to run and blocks or asks before the dangerous ones: secrets, prod deletes, prompt injection. Zero dependencies. | [PyPI](https://pypi.org/project/seatbelt-guard/) |
+|  **[cloud-ownerlens](https://github.com/nikhilrai-tech/cloud-ownerlens)** | Finds unused cloud resources nobody owns, infers the owner, scores the waste and asks before anyone touches anything. Read-only. | AWS |
+|  **[ScamSaathi](https://github.com/nikhilrai-tech/ScamSaathi)** | Offline, multilingual scam shield for farmers, students and families, with a trusted-person alert loop. | [Try it](https://nikhilrai-tech.github.io/ScamSaathi/) |
+
+###  Products I've built and run
+
+| Product | What it is | Stack |
+| --- | --- | --- |
+| [**AI Varta**](https://aivarta.in/) | AI chatbot for websites, SkyAI's flagship product | Django · PostgreSQL · Razorpay · DigitalOcean |
+| [**VTV Gujarati News**](https://www.vtvgujarati.com/) | High-traffic news platform on microservices | Django · Wagtail · Kubernetes · Jenkins |
+| [**SecuriumX**](https://www.securiumx.com/) | Bug bounty and CTF platform connecting businesses with ethical hackers | Django · React · Vue.js · Azure |
+| [**Persius**](https://persius.in/) | Marketplace for creative talent: jobs, gigs, workshops, courses | Django · RabbitMQ · Terraform · AWS |
+| [**Aethrone Aerospace**](https://www.aethroneaerospace.com/) | Web app for an aerospace and defense startup at SIIC-IIT Kanpur | Django · React · MySQL · DigitalOcean |
+| **Network Operations Dashboard** | Real-time network ops data for Airtel's NOC | Django · PostgreSQL · REST API · Docker |
+
+###  Journey
+
+```text
+2021 ── Bharti Airtel ──────── NOC Developer                         Gurugram
+2022 ── Cyber3ra ───────────── Software Engineer                     IIT Kanpur
+2024 ── SkyAI Technologies ─── Software Engineer / AI & Cloud        IIT Kanpur
+2025 ── SimDaaS Autonomy ───── Software Development Engineer II      IIT Kanpur
+2026 ── SimDaaS Autonomy ───── Head of Information Technology  ◀ now IIT Kanpur
+```
+
+Telecom → cybersecurity → AI and cloud → autonomy. [Watch it as a scroll film ▶](https://nikhil-rai-portfolio-xi.vercel.app/en#journey)
+
+###  Latest notes
+
+<!-- NOTES:START -->
+- [A seatbelt for AI coding agents](https://nikhil-rai-portfolio-xi.vercel.app/en/notes/seatbelt-for-ai-agents)
+- [ScamSaathi: an offline scam shield in Hindi and English](https://nikhil-rai-portfolio-xi.vercel.app/en/notes/scamsaathi)
+- [Finding the owner of forgotten cloud resources](https://nikhil-rai-portfolio-xi.vercel.app/en/notes/cloud-ownerlens)
+<!-- NOTES:END -->
+
+<sub>Updated automatically from the portfolio's [RSS feed](https://nikhil-rai-portfolio-xi.vercel.app/feed.xml).</sub>
+
+###  Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,django,react,vue,nextjs,threejs,flutter,postgres,mysql,mongodb,redis,kafka,rabbitmq,aws,azure,docker,kubernetes,terraform,jenkins,githubactions,nginx,linux,grafana,prometheus,sentry&perline=9" alt="Python, JavaScript, TypeScript, Django, React, Vue, Next.js, three.js, Flutter, PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ, AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Nginx, Linux, Grafana, Prometheus, Sentry"/>
+</p>
+
+<p align="center"><sub>Also: Django REST Framework · Wagtail · Celery · DigitalOcean · SonarQube · BetterStack</sub></p>
+
+###  GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nikhilrai-tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0d1117&icon_color=EBA73F&title_color=EBA73F" />
+    <img height="165" alt="Nikhil's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nikhilrai-tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=B7791F&title_color=B7791F" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nikhilrai-tech&hide_border=true&theme=github-dark-blue&background=0d1117&ring=EBA73F&fire=EBA73F&currStreakLabel=EBA73F" />
+    <img height="165" alt="Nikhil's contribution streak" src="https://streak-stats.demolab.com?user=nikhilrai-tech&hide_border=true&ring=B7791F&fire=B7791F&currStreakLabel=B7791F" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilrai-tech/nikhilrai-tech/output/snake-dark.svg" />
+    <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/nikhilrai-tech/nikhilrai-tech/output/snake.svg" />
+  </picture>
+</p>
+
+###  Let's talk
+
+Infrastructure, DevOps, Python or photography: write to **[nikhilrai662@gmail.com](mailto:nikhilrai662@gmail.com)**, connect on [LinkedIn](https://www.linkedin.com/in/nikhil-rai-551219183/), or [ask the AI on my portfolio](https://nikhil-rai-portfolio-xi.vercel.app) anything about my work.
+
+<p align="center"><sub>⭐ <a href="https://github.com/nikhilrai-tech/portfolio">Star the portfolio</a> if it taught you something</sub></p>
