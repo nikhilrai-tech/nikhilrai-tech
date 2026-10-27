@@ -11,6 +11,8 @@
   <a href="https://www.linkedin.com/in/nikhil-rai-551219183/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
   <a href="mailto:nikhilrai662@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://instagram.com/officialraisahabh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://cal.com/nikhil-rai-exnpld"><img src="https://img.shields.io/badge/Book_a_call-111827?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
+  <a href="https://github.com/sponsors/nikhilrai-tech"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
 </p>
 
 <p align="center">
@@ -97,6 +99,8 @@ Telecom → cybersecurity → AI and cloud → autonomy. [Watch it as a scroll f
 
 ### Let's talk
 
-Infrastructure, DevOps, Python or photography: write to **[nikhilrai662@gmail.com](mailto:nikhilrai662@gmail.com)**, connect on [LinkedIn](https://www.linkedin.com/in/nikhil-rai-551219183/), or [ask the AI on my portfolio](https://nikhil-rai-portfolio-xi.vercel.app) anything about my work.
+Infrastructure, DevOps, Python or photography: write to **[nikhilrai662@gmail.com](mailto:nikhilrai662@gmail.com)**, connect on [LinkedIn](https://www.linkedin.com/in/nikhil-rai-551219183/), or [ask the AI on my portfolio](https://nikhil-rai-portfolio-xi.vercel.app) anything about my work. Prefer to talk? [Book a call](https://cal.com/nikhil-rai-exnpld).
+
+If my open-source tools save you time, you can [sponsor the work on GitHub](https://github.com/sponsors/nikhilrai-tech).
 
 <p align="center"><sub>⭐ <a href="https://github.com/nikhilrai-tech/portfolio">Star the portfolio</a> if it taught you something</sub></p>
